@@ -12,7 +12,7 @@ Usage - Modified by Kebful
 
 ItemDBCDisabler.py
 * For some reason I could not get the Item DBC Disabler from TWOW to work with Robin's patcher. 
-It kept bricking my entire EXE everytime I tried to run it. Ended up just prompting GPT to make a PY script out of it for me that only disables the DBC.
+It kept bricking my entire EXE everytime I tried to run it. Ended up just prompting GPT to make a PY script out of it for me.
 * Must have Python installed
 * Must have EXE in the same folder as the py script
 * Open CMD in the same directory of the PY script and EXE
