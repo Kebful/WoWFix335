@@ -13,10 +13,13 @@ def patch_file(file_path, patches):
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: python patcher.py <path_to_wow_exe>")
-        return
+        file_path = input("Enter the path to the World of Warcraft executable: ").strip()
+        if not file_path:
+            print("File path cannot be empty.")
+            return
+    else:
+        file_path = sys.argv[1]
 
-    file_path = sys.argv[1]
     if not os.path.exists(file_path):
         print("File not found.")
         return
