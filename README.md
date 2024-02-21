@@ -30,6 +30,7 @@ Cheers!
 ![image](https://github.com/Kebful/WoWFix335/assets/127319823/c2263b5b-5d24-4a00-a515-f37cfdcf1ce0)
 
 
-Sponsor WoWFix335
+Sponsor WoWFix335 
 -----------------------
-* To support the continuation of WoWFix335 development you can now [sponsor](https://github.com/sponsors/robinsch) this project.
+* Link is untouched from Robin's repo and will continue to link to his sponser page!! 
+* To support the continuation of WoWFix335 development you can now [sponsor](https://github.com/sponsors/robinsch) this project. 
