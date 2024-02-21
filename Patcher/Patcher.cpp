@@ -103,7 +103,7 @@ int main(int argc, char** argv)
     // Allow chat commands while dead
     write_pos<uint8_t>(0x10CA41, 0xEB);
 
-    // Unlimited Race / Cass pairs patch
+    // Unlimited Race / Class pairs patch
     write_pos<uint8_t>(0xE0355, 0x78);
     write_pos<uint8_t>(0xE038E, 0x88);
     write_pos<uint8_t>(0xE03A3, 0x88);
