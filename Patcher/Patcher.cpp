@@ -109,7 +109,7 @@ int main(int argc, char** argv)
     //write_pos<uint8_t>(0xE03A3, 0x88);
     //write_pos<uint8_t>(0xE03C3, 0x88);
 
-    /// Occluder Issue for Open Azeroth Stormwind
+    /// Occluder Issue for Open Azeroth Stormwind by Morfium at Open Azeroth
     write_pos<uint8_t>(0x6EE040, 0x9f);
     write_pos<uint8_t>(0x6EE041, 0x86);
     write_pos<uint8_t>(0x6EE042, 0x01);
